@@ -10,6 +10,9 @@
 ### 北海道
 - [ ] [オロロンライン](https://hokkaido-labo.com/hokkaido-ororon-line-9049)
 
+### 宮城
+- [ ] [蔵王エコーライン](http://www.zao-machi.com/553)
+
 ### 埼玉
 - [ ] [奥多摩](https://www.jalan.net/kankou/spt_13308ab2030004436/)
 
