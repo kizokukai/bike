@@ -25,6 +25,7 @@
 ### 長野
 - [ ] [諏訪湖](https://www.suwakanko.jp/point/nature.php?id=suwako)
 - [ ] [ビーナスライン](http://www.venus-line.net/)
+- [ ] [美ヶ原](https://www.travel.co.jp/guide/article/5603/)
 
 ### 石川
 - [ ] [千里浜なぎさドライブウェイ](https://gurutabi.gnavi.co.jp/a/a_1918/)
