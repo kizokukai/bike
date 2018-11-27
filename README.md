@@ -18,6 +18,7 @@
 
 ### 神奈川
 - [ ] [菜の花台](http://www.kankou-hadano.org/hadano_point/point_nanohanadai.html)
+- [ ] 道志みち（ワイディングコース）
 
 ### 静岡
 - [ ] [伊豆スカイライン](http://siz-road.or.jp/sz/road/izusk/)
