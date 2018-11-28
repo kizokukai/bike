@@ -23,6 +23,7 @@
 
 ### 静岡
 - [ ] [伊豆スカイライン](http://siz-road.or.jp/sz/road/izusk/)
+- [ ] [朝霧高原](https://icotto.jp/presses/2929)
 
 ### 新潟
 - [ ] [越後七浦シーサイドライン](https://niigata-kankou.or.jp/spot/7406)
