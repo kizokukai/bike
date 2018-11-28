@@ -9,9 +9,20 @@
 
 ### 北海道
 - [ ] [オロロンライン](https://hokkaido-labo.com/hokkaido-ororon-line-9049)
+- [ ] [三国峠](http://www.sasu-rider.com/bike-tabi/hokkaido-touring/hokkaido-route10/#i-13)
+- [ ] [サロベツ原野](http://www.bikebros.co.jp/vb/touring/road/road-12/)
+
+### 岩手
+- [ ] [八幡平アスピーテライン](https://iwatetabi.jp/spot/detail.spn.php?spot_id=1201)
 
 ### 宮城
 - [ ] [蔵王エコーライン](http://www.zao-machi.com/553)
+
+### 福島
+- [ ] [磐梯吾妻スカイライン](https://www.jalan.net/kankou/spt_guide000000151865/)
+
+### 群馬
+- [ ] [志賀草津道路](https://matome.naver.jp/odai/2137386184055003201)
 
 ### 埼玉
 - [ ] [奥多摩](https://www.jalan.net/kankou/spt_13308ab2030004436/)
@@ -44,6 +55,13 @@
 
 ### 高知
 - [ ] [四国カルスト](https://www.iyokannet.jp/feature/karusuto/drive)
+- [ ] [瓶ヶ森林道](https://shuumatsuryokouki.com/kamegamoririndou/)
 
 ### 福岡
 - [ ] [平尾台](http://www.gururich-kitaq.com/search/category/detail.php?id=29)
+
+### 大分
+- [ ] [やまなみハイウェイ](https://gazoo.com/drive/route/150923.html)
+
+### 宮崎
+- [ ] [フェニックスロード](http://scenic-highway.net/kyushu/nichinan-phoenixroad)
