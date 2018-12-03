@@ -29,9 +29,10 @@
 - [ ] [奥多摩](https://www.jalan.net/kankou/spt_13308ab2030004436/)
 
 ### 神奈川
-- [ ] [菜の花台](http://www.kankou-hadano.org/hadano_point/point_nanohanadai.html)
+- [x] [菜の花台](http://www.kankou-hadano.org/hadano_point/point_nanohanadai.html)
 - [ ] 道志みち（ワイディングコース）
 - [ ] [真鶴ブルーライン](http://www.kdt-kousha.or.jp/road/road_manazuru/)
+- [ ] [芦ノ湖スカイライン](http://www.ashinoko-skyline.co.jp/)
 
 ### 静岡
 - [ ] [伊豆スカイライン](http://siz-road.or.jp/sz/road/izusk/)
