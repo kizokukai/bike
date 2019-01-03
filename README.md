@@ -29,7 +29,7 @@
 - [ ] [奥多摩](https://www.jalan.net/kankou/spt_13308ab2030004436/)
 
 ### 千葉
-- [ ] [千葉フォルニア](https://retrip.jp/articles/22606/image/)
+- [x] [千葉フォルニア](https://retrip.jp/articles/22606/image/)
 
 ### 神奈川
 - [x] [菜の花台](http://www.kankou-hadano.org/hadano_point/point_nanohanadai.html)
@@ -40,6 +40,7 @@
 ### 静岡
 - [ ] [伊豆スカイライン](http://siz-road.or.jp/sz/road/izusk/)
 - [ ] [朝霧高原](https://icotto.jp/presses/2929)
+- [x] [乙女峠](https://www.tripadvisor.jp/Attraction_Review-g298171-d1722852-Reviews-Otome_Toge-Hakone_machi_Ashigarashimo_gun_Kanagawa_Prefecture_Kanto.html)
 
 ### 新潟
 - [ ] [越後七浦シーサイドライン](https://niigata-kankou.or.jp/spot/7406)
