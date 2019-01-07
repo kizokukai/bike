@@ -26,7 +26,7 @@
 - [ ] [志賀草津道路](https://matome.naver.jp/odai/2137386184055003201)
 
 ### 埼玉
-- [ ] [奥多摩](https://www.jalan.net/kankou/spt_13308ab2030004436/)
+- [] [奥多摩](https://www.jalan.net/kankou/spt_13308ab2030004436/)
 
 ### 千葉
 - [x] [千葉フォルニア](https://retrip.jp/articles/22606/image/)
