@@ -1,11 +1,10 @@
 # bike
 ツーリング貴族
-@GOD-odaがメモがわりに使いやす
 
 ## 目的
 貴族がツーリングする
 
-## GOD-odaが行きたい場所
+## みんなが行きたい場所
 
 ### 北海道
 - [ ] [オロロンライン](https://hokkaido-labo.com/hokkaido-ororon-line-9049)
@@ -72,3 +71,11 @@
 
 ### 宮崎
 - [ ] [フェニックスロード](http://scenic-highway.net/kyushu/nichinan-phoenixroad)
+
+## みんなで行った場所
+
+### 小鹿神社 2019/03/21
+- [t.oda Instagram](https://www.instagram.com/p/BvTDi_2lPNO/)
+- [shalin GoogleFhoto](https://photos.app.goo.gl/F2MZtAmWT9zqM5uw9)
+
+### 伊豆 2019/03/30 ~ 2019/03/31
