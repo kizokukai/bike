@@ -27,6 +27,7 @@
 
 ### 埼玉
 - [x] [奥多摩](https://www.jalan.net/kankou/spt_13308ab2030004436/)
+- [x] [小鹿神社](http://www.saitama-jinjacho.or.jp/shrine/8990/)
 
 ### 千葉
 - [x] [千葉フォルニア](https://retrip.jp/articles/22606/image/)
