@@ -21,6 +21,9 @@
 - [ ] [磐梯吾妻スカイライン](https://www.jalan.net/kankou/spt_guide000000151865/)
 - [ ] [磐梯山ゴールドライン」（https://www.pref.fukushima.lg.jp/sec/41351a/kankou-douro.html）
 
+### 茨城
+- [ ] [霞ヶ浦](https://sites.google.com/site/iwayururitanraidadesuii/ci-cheng-xia-ke-pu)
+
 ### 群馬
 - [ ] [志賀草津道路](https://matome.naver.jp/odai/2137386184055003201)
 
