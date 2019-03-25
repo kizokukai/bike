@@ -22,7 +22,7 @@
 - [ ] [磐梯山ゴールドライン」（https://www.pref.fukushima.lg.jp/sec/41351a/kankou-douro.html）
 
 ### 茨城
-- [ ] [霞ヶ浦](https://sites.google.com/site/iwayururitanraidadesuii/ci-cheng-xia-ke-pu)
+- [x] [霞ヶ浦](https://sites.google.com/site/iwayururitanraidadesuii/ci-cheng-xia-ke-pu)
 
 ### 群馬
 - [ ] [志賀草津道路](https://matome.naver.jp/odai/2137386184055003201)
