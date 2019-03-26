@@ -56,6 +56,9 @@
 ### 石川
 - [ ] [千里浜なぎさドライブウェイ](https://gurutabi.gnavi.co.jp/a/a_1918/)
 
+### 福井
+- [ ] [三方五湖](http://www.bikebros.co.jp/vb/touring/ms/ms-261/)
+
 ### 大阪
 - [ ] [千本松大橋](https://www.travel.co.jp/guide/article/29729/)
 
