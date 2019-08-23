@@ -62,6 +62,9 @@
 ### 福井
 - [ ] [三方五湖](http://www.bikebros.co.jp/vb/touring/ms/ms-261/)
 
+### 滋賀
+- [ ] [メタセコイア並木](http://www.city.takashima.lg.jp/www/contents/1509495170784/index.html)
+
 ### 大阪
 - [ ] [千本松大橋](https://www.travel.co.jp/guide/article/29729/)
 
